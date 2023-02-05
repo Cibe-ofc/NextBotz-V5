@@ -56,11 +56,11 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar PutraModz.18
+⬡ #daftar IkyModz.23
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `*ᴘᴜᴛʀᴀᴍᴏᴅz*`, 
+   footer: `*ɪᴋʏʙᴏᴛᴢ*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
@@ -85,7 +85,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © ᴘᴜᴛʀᴀᴍᴏᴅz || ALL RESERVED
+ ❖ © ɪᴋʏʙᴏᴛᴢ || ALL RESERVED
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
